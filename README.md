@@ -5,7 +5,7 @@ Created UI of News app with simple user experience.
 
 ![login](https://github.com/VishalGhai/News-app-UI-/blob/master/LoginPage.png)
 
-2. If you are new to this, please REgister yourself !!
+2. If you are new to this, please Register yourself by clicking on sign up button !!
 
 ![login](https://github.com/VishalGhai/News-app-UI-/blob/master/SignUpPage.png)
 
